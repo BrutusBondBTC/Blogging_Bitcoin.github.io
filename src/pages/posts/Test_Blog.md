@@ -1,3 +1,0 @@
-# Test Blog
-
-Hello World!
